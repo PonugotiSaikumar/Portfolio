@@ -316,6 +316,7 @@ img {
 }
 .skills__3d {
   border-radius: 0.5rem;
+  width: 30%;
 }
 .java{
   padding-right: 30px;
@@ -336,6 +337,9 @@ img {
   padding-right: 30px;
 }
 .react{
+  padding-right: 30px;
+}
+.c{
   padding-right: 30px;
 }
 
