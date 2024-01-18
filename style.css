@@ -292,9 +292,7 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__auto {
-  width: 80%;
-}
+
 .skills__aps {
   width: 70%;
 }
