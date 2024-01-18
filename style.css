@@ -317,9 +317,27 @@ img {
 .skills__3d {
   border-radius: 0.5rem;
 }
-
-
-
+.java{
+  padding-right: 30px;
+}
+.sql{
+  padding-right: 30px;
+}
+.css{
+  padding-right: 30px;
+}
+.html{
+  padding-right: 30px;
+}
+.cp{
+  padding-right: 30px;
+}
+.javascript{
+  padding-right: 30px;
+}
+.react{
+  padding-right: 30px;
+}
 
 /* ===== WORK =====*/
 .work__container {
