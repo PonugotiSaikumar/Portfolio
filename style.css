@@ -362,7 +362,7 @@ img {
 }
 .work__img img {
   transition: 1s;
-  height: 60%;
+  height: 100%;
   width: 100%;
  
 }
