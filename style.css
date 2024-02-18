@@ -478,6 +478,12 @@ img {
     column-gap: 2rem;
     padding-top: 2rem;
   }
+  .work__img img {
+  transition: 1s;
+  height: 100%;
+  width: 100%;
+ 
+}
   .contact__form {
     width: 360px;
     padding-top: 2rem;
@@ -541,6 +547,12 @@ img {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
   }
+  .work__img img {
+  transition: 1s;
+  height: 100%;
+  width: 100%;
+ 
+}
 }
 @media screen and (min-width: 992px) {
   .bd-grid {
@@ -553,4 +565,10 @@ img {
   .home__img {
     width: 450px;
   }
+  .work__img img {
+  transition: 1s;
+  height: 100%;
+  width: 100%;
+ 
+}
 }
