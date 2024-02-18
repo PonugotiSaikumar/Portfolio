@@ -258,9 +258,9 @@ img{
             border-radius: .5rem;
         }
     }
-    &__about__text{
-  text_align:justify;
-}
+    &.about__text{
+        text-align: justify;
+    }
 
 }
 
